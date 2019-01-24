@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Settings">
+        <setting label="Pause Dim" type="slider" id="pauseDim" default="40" range="0,1,100" option="int" />
+        <setting label="Movie Play Dim" type="slider" id="moviePlayDim" default="20" range="0,1,100" option="int" />
+        <setting label="TV Show Play Dim" type="slider" id="tvPlayDim" default="20" range="0,1,100" option="int" />
+        <setting label="Api Address" type="text" id="apiAddress" default="http://192.168.1.147/"/>
+    </category>
+</settings>
